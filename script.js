@@ -119,7 +119,6 @@ function recreateParticles() {
     // Recreate particles
     createSnow(snowRateSlider.value);
     createRain(rainRateSlider.value);
-    createFloatingParticles(25);
     createBubbles(40);
 }
 
